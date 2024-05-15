@@ -5,4 +5,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alanalvarenga/)
 
 ### About me
+- Graduação Tecnológica Programação de Jogos Digitais
 - Ex-Cadet at [42SP](https://42sp.org.br).
